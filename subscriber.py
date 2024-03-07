@@ -12,7 +12,6 @@ port = 8883
 topic = "solar_sensor"
 username = os.getenv("HIVE_USER")
 password = os.getenv("HIVE_PSWD")
-
 db_client = connect_to_db()
 db = db_client["sensors_data"]
 
