@@ -29,7 +29,7 @@ password = os.getenv("HIVE_PSWD")
 
 DATABASE_URL = os.getenv("MONGO_URI")
 DATABASE_NAME = "sensors_data"
-COLLECTION_NAME = "solar_data"
+COLLECTION_NAME = "solar_data_test"
 
 received_messages = []
 
