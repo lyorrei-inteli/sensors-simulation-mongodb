@@ -45,8 +45,8 @@ pytest tests/
 
 Demonstração dos Publishers e Subscribers: [Link do vídeo](https://youtu.be/mvigfNvgJ_4) <br/>
 Demonstração dos testes: [Link do vídeo](https://youtu.be/P0oVfgMh7zs) <br/>
-Demonstração do HiveMQ: [Link do vídeo](https://youtu.be/9e3lP3gzc_A)
-Integração com Metabase: [Link do vídeo](https://youtu.be/nFV8fU14F04)
+Demonstração do HiveMQ: [Link do vídeo](https://youtu.be/9e3lP3gzc_A) <br/>
+Integração com Metabase: [Link do vídeo](https://youtu.be/0Ks143_kHdE)
 
 ## Estrutura do Projeto
 
